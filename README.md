@@ -86,7 +86,7 @@ Extracted Content: [Extracted Data Here]
 - Store your credentials securely and avoid hardcoding them in the script. Consider using environment variables or a secrets manager.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
